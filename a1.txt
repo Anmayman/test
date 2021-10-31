@@ -1,3 +1,7 @@
 hôm nay mua to qua nhi 
+<<<<<<< HEAD
 hôm nay mua to thât
 hahaha
+=======
+hôm nay mua to thât mưa to cc
+>>>>>>> 24d6d4cd2dac0db51a7e5be92f8767f06d20f360
